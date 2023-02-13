@@ -2,11 +2,15 @@
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>rosidl_core_generators</name>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <description>A configuration package defining core ROS interface generators.</description>
-  <maintainer email="jacob@openrobotics.org">Jacob Perron</maintainer>
+
+  <maintainer email="sloretz@openrobotics.org">Shane Loretz</maintainer>
+
   <license>Apache License 2.0</license>
+
   <author email="dthomas@osrfoundation.org">Dirk Thomas</author>
+  <author email="jacob@openrobotics.org">Jacob Perron</author>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
 
