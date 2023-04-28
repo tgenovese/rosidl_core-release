@@ -1,8 +1,9 @@
-# rosidl_core
+# rosidl_core_generators
 
-Provides buildtime and runtime dependencies for ROS messages.
+Provides CMake functionality for finding and adding buildtime dependencies for packages providing ROS message definitions.
 
-- [rosidl\_core\_generators](rosidl_core_generators/README.md) brings together dependencies for generating and building code for ROS messages.
-- [rosidl\_core\_runtime](rosidl_core_runtime/README.md) brings together dependencies for using ROS messages at runtime.
+## Features
 
-For dependencies required for ROS services and ROS actions, you should depend on [rosidl_defaults](https://github.com/ros2/rosidl_defaults).
+The *features* of this package consist entirely of serving as a gathering place for all runtime related dependencies of ROS interface packages.
+These dependencies can be found in the [package.xml](package.xml).
+This helps reduce the boilerplate needed when developers create their own interface packages.
