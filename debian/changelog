@@ -1,0 +1,29 @@
+ros-rolling-rosidl-core-runtime (0.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Fri, 26 Apr 2024 00:00:00 -0000
+
+ros-rolling-rosidl-core-runtime (0.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Fri, 28 Apr 2023 00:00:00 -0000
+
+ros-rolling-rosidl-core-runtime (0.1.1-1bookworm) bookworm; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#2 <https://github.com/ros2/rosidl_core/issues/2>)
+  * Contributors: Audrow Nash
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Mon, 13 Feb 2023 00:00:00 -0000
+
+ros-rolling-rosidl-core-runtime (0.1.0-1bookworm) bookworm; urgency=high
+
+  * Add generators and runtime configuration packages (#1 <https://github.com/ros2/rosidl_core/issues/1>)
+    Moved (and renamed) from rosidl_defaults.
+    Related PR: https://github.com/ros2/rosidl_defaults/pull/22
+  * Contributors: Jacob Perron
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Thu, 08 Sep 2022 00:00:00 -0000
+
+
