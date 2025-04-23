@@ -1,1 +1,1 @@
-{"base": "a4463d6", "parent": "debian/rolling/rosidl_core_runtime", "previous": "1f1c6fa", "trim": "", "trimbase": ""}
+{"base": "b51072e5e4e9", "parent": "debian/kilted/rosidl_core_runtime", "previous": "59fa315e2b41", "trim": "", "trimbase": ""}
