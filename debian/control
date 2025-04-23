@@ -1,0 +1,12 @@
+Source: ros-kilted-rosidl-core-runtime
+Section: misc
+Priority: optional
+Maintainer: Shane Loretz <sloretz@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-kilted-ament-cmake, ros-kilted-ament-lint-auto <!nocheck>, ros-kilted-ament-lint-common <!nocheck>, ros-kilted-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kilted-rosidl-core-runtime
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kilted-rosidl-generator-py, ros-kilted-rosidl-runtime-c, ros-kilted-rosidl-runtime-cpp, ros-kilted-rosidl-typesupport-c, ros-kilted-rosidl-typesupport-cpp, ros-kilted-rosidl-typesupport-fastrtps-c, ros-kilted-rosidl-typesupport-fastrtps-cpp, ros-kilted-rosidl-typesupport-introspection-c, ros-kilted-rosidl-typesupport-introspection-cpp, ros-kilted-ros-workspace
+Description: A configuration package defining runtime dependencies for core ROS interfaces.
