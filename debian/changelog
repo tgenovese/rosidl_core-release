@@ -1,0 +1,42 @@
+ros-rolling-rosidl-core-generators (0.4.0-1noble) noble; urgency=high
+
+
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Fri, 25 Apr 2025 05:00:00 -0000
+
+ros-rolling-rosidl-core-generators (0.3.1-1noble) noble; urgency=high
+
+  * Add mechanism to disable workaround for dependency groups (#3 <https://github.com/ros2/rosidl_core/issues/3>)
+  * Contributors: Scott K Logan
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Mon, 17 Jun 2024 05:00:00 -0000
+
+ros-rolling-rosidl-core-generators (0.3.0-1noble) noble; urgency=high
+
+
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Fri, 26 Apr 2024 05:00:00 -0000
+
+ros-rolling-rosidl-core-generators (0.2.0-1noble) noble; urgency=high
+
+
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Fri, 28 Apr 2023 05:00:00 -0000
+
+ros-rolling-rosidl-core-generators (0.1.1-1noble) noble; urgency=high
+
+  * [rolling] Update maintainers - 2022-11-07 (#2 <https://github.com/ros2/rosidl_core/issues/2>)
+  * Contributors: Audrow Nash
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Mon, 13 Feb 2023 06:00:00 -0000
+
+ros-rolling-rosidl-core-generators (0.1.0-1noble) noble; urgency=high
+
+  * Add generators and runtime configuration packages (#1 <https://github.com/ros2/rosidl_core/issues/1>)
+    Moved (and renamed) from rosidl_defaults.
+    Related PR: https://github.com/ros2/rosidl_defaults/pull/22
+  * Contributors: Jacob Perron
+
+ -- Shane Loretz <sloretz@openrobotics.org>  Thu, 08 Sep 2022 05:00:00 -0000
+
+
