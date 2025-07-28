@@ -1,0 +1,12 @@
+Source: ros-jazzy-rosidl-core-generators
+Section: misc
+Priority: optional
+Maintainer: Shane Loretz <sloretz@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-rosidl-core-generators
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-ament-cmake-core, ros-jazzy-rosidl-cmake, ros-jazzy-rosidl-generator-c, ros-jazzy-rosidl-generator-cpp, ros-jazzy-rosidl-generator-py, ros-jazzy-rosidl-typesupport-c, ros-jazzy-rosidl-typesupport-cpp, ros-jazzy-rosidl-typesupport-fastrtps-c, ros-jazzy-rosidl-typesupport-fastrtps-cpp, ros-jazzy-rosidl-typesupport-introspection-c, ros-jazzy-rosidl-typesupport-introspection-cpp, ros-jazzy-ros-workspace
+Description: A configuration package defining core ROS interface generators.
