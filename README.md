@@ -1,3 +1,28 @@
+## rosidl_core (jazzy) - 0.2.0-4
+
+The packages in the `rosidl_core` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release --rosdistro jazzy --override-release-repository-push-url git@github.com:tgenovese/rosidl_core-release.git rosidl_core` on `Mon, 28 Jul 2025 17:26:17 -0000`
+
+These packages were released:
+- `rosidl_core_generators`
+- `rosidl_core_runtime`
+
+Version of package(s) in repository `rosidl_core`:
+
+- upstream repository: https://github.com/ros2/rosidl_core.git
+- release repository: https://github.com/tgenovese/rosidl_core-release.git
+- rosdistro version: `0.2.0-3`
+- old version: `0.2.0-3`
+- new version: `0.2.0-4`
+
+Versions of tools used:
+
+- bloom version: `0.13.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.26.0`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rosidl_core (rolling) - 0.4.0-1
 
 The packages in the `rosidl_core` repository were released into the `rolling` distro by running `/home/cottsay/infra_ws/install/bloom/bin/bloom-release rosidl_core -r rolling` on `Fri, 25 Apr 2025 18:42:26 -0000`
