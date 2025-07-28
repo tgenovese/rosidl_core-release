@@ -2,17 +2,6 @@
 Changelog for package rosidl_core_runtime
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.4.0 (2025-04-25)
-------------------
-
-0.3.1 (2024-06-17)
-------------------
-* Add mechanism to disable workaround for dependency groups (`#3 <https://github.com/ros2/rosidl_core/issues/3>`_)
-* Contributors: Scott K Logan
-
-0.3.0 (2024-04-26)
-------------------
-
 0.2.0 (2023-04-28)
 ------------------
 
